@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box
+}
+
+body{
+    color: rgb(32, 28, 238);
+    font: 200;
+    background-color: aqua;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+footer{
+    background-color: chartreuse;
+    padding: 30PX;
+}
+
+.navbar{
+    display: flexbox;
+    gap: 30px;
+}
+
+.card{
+  border: 50px;
+  border-width: 20px;
+  border-color: blueviolet;
+
+}
